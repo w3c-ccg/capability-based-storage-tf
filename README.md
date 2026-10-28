@@ -11,6 +11,6 @@ This task force is working on the following specifications:
 
 - [Authorization Capabilities (ZCAPs)](https://w3c-ccg.github.io/zcap-spec/)
 - [Encrypted Data Vaults (EDVs)](https://identity.foundation/edv-spec/)
-- [Portable Web Spaces (PWSs)](https://w3c-ccg.github.io/wallet-attached-storage-spec/) (formerly known as Wallet-Attached Storage (WAS)).
+- [Portable Web Spaces (PWSs)](https://w3c-ccg.github.io/portable-web-spaces-spec/) (formerly known as Wallet-Attached Storage (WAS)).
 
 
